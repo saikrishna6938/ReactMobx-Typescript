@@ -1,2 +1,4 @@
 # ReactMobx-Typescript
-Created with CodeSandbox
+React Typescript Mobx
+
+Todo List
